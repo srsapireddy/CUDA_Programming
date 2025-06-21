@@ -17,6 +17,9 @@ Command: ```ncu --query-metrics-mode all>filename.txt```
 ### Collecting all metrics from shared memory
 ![image](https://github.com/user-attachments/assets/5411fd91-3889-4e9b-850a-b86370782a58)
 
+## Graphic User Interface NSIGHT COMPUTE
+![image](https://github.com/user-attachments/assets/552158ad-5e40-4046-a6fe-8aa871c66bca)
+
 
 
 
