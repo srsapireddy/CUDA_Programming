@@ -18,7 +18,9 @@ Command: ```ncu --query-metrics-mode all>filename.txt```
 ![image](https://github.com/user-attachments/assets/5411fd91-3889-4e9b-850a-b86370782a58)
 
 ## Graphic User Interface NSIGHT COMPUTE
-![image](https://github.com/user-attachments/assets/552158ad-5e40-4046-a6fe-8aa871c66bca)
+![image](https://github.com/user-attachments/assets/88d94e87-46c6-497d-83be-7be9f90369f7)
+![image](https://github.com/user-attachments/assets/e2554301-3712-4c69-8711-c0671a2fa196)
+
 
 
 
