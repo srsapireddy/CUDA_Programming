@@ -20,6 +20,8 @@ Command: ```ncu --query-metrics-mode all>filename.txt```
 ## Graphic User Interface NSIGHT COMPUTE
 ![image](https://github.com/user-attachments/assets/88d94e87-46c6-497d-83be-7be9f90369f7)
 ![image](https://github.com/user-attachments/assets/e2554301-3712-4c69-8711-c0671a2fa196)
+### Assembly Code of the Application
+![image](https://github.com/user-attachments/assets/784ce5de-7930-4409-b23c-a7a7e23ee8bd)
 
 
 
