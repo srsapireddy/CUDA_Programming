@@ -22,6 +22,12 @@ Command: ```ncu --query-metrics-mode all>filename.txt```
 ![image](https://github.com/user-attachments/assets/e2554301-3712-4c69-8711-c0671a2fa196)
 ### Assembly Code of the Application
 ![image](https://github.com/user-attachments/assets/784ce5de-7930-4409-b23c-a7a7e23ee8bd)
+### Instruction Dependency
+![image](https://github.com/user-attachments/assets/4ac6f825-f976-40ee-9831-28f15118152d)
+![image](https://github.com/user-attachments/assets/6872cc1a-a1f0-48ef-ae03-8ef460f6e1ea)
+### Register Dependency
+![image](https://github.com/user-attachments/assets/b360ba74-72bd-41d7-9b9b-1c880c671003)
+
 
 
 
